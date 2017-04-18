@@ -3,18 +3,18 @@ layout: post
 title: How to Train a Data Scientist
 ---
 
-"If you're not the first to tell your own story, someone else will tell it for you."
+# "If you're not the first to tell your own story, someone else will tell it for you."
 
 ![SanFranciscoSunset](/images/SanFrancisco.jpg)
 
 ## Two years ago...
-After a whirlwind summer with two professors that championed data, I knew I wanted to combine data analytics to solve awesome problems.
+It's Summer 2015.  One whirlwind summer with two professors that championed data, and I knew I wanted to use data analytics to solve awesome problems.  I wanted to pursue a career as a data scientist.
 
-My studies urged me advocate in support changing hearts and minds about climate change. A GIS class here and there and I wanted to specialize in geospatial data and humanitarian applications. A unique plant research experience led me to wanting innovate on IoT agtech systems. A class around IT Management whet my interest in analytics and strategic consulting.
+My studies urged me advocate in support changing hearts and minds about climate change. A GIS class here and there and I wanted to specialize in geospatial data and humanitarian applications. A unique plant research experience led me to wanting innovate on IoT agtech systems. A student-run conference called iiData had me tinkering with SQL and signing up for random Coursera courses.  A class around IT Management whet my interest in analytics and strategic consulting.
 
 Fast forward a couple months and I was recognized in a state government hackathon for wrangling the data of California's reservoirs in the context of a dam expansion.  Soon after, I was scraping data for an agtech software startup, and learning about how data impacted the 2016 presidential election through an Asian Pacific American Civic Leadership Program.
 
-Looking forward, my faith in governance in combination with the ubiquity of AI has me yearning to drive policy and industry standards in support of friendly AI.  Oh yeah, and then there's the blockchain, computer vision, natural language processing, and a whole wide world of computational statistics specializations and applications. :tired_face:  :tired_face:  :tired_face:
+Looking forward, my faith in data science for social good in combination with the ubiquity of AI has me yearning to drive policy and industry standards in support of friendly AI.  Oh yeah, and then there's the blockchain, computer vision, natural language processing, and a whole wide world of computational statistics specializations and applications. :tired_face:  :tired_face:  :tired_face:
 
 Not like I'm learning it all at once - but the vast expanse of everything I just don't know (but on the fringe of understanding) is incredibly humbling and empowering. :triumph: I want to learn it all.
 
