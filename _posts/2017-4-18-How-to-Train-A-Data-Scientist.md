@@ -3,7 +3,7 @@ layout: post
 title: How to Train a Data Scientist
 ---
 
-# "If you're not the first to tell your own story, someone else will tell it for you."
+# "Be the first to tell your own story, or someone else will tell it for you."
 
 ![SanFranciscoSunset](/images/SanFrancisco.jpg)
 
