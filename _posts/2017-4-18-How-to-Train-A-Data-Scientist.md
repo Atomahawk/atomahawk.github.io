@@ -14,7 +14,7 @@ My studies urged me advocate in support changing hearts and minds about climate 
 
 Fast forward a couple months and I was recognized in a state government hackathon for wrangling the data of California's reservoirs in the context of a dam expansion.  Soon after, I was scraping data for an agtech software startup, and learning about how data impacted the 2016 presidential election through an Asian Pacific American Civic Leadership Program.
 
-Looking forward, my faith in governance in combination with the ubiquity of AI has me yearning to drive policy and industry standards in support of friendly AI.  Oh yeah, and then there's the blockchain, computer vision, natural language processing, and a whole wide world of computational statistics specializations and applications. :tired_face: :tired_face: :tired_face:
+Looking forward, my faith in governance in combination with the ubiquity of AI has me yearning to drive policy and industry standards in support of friendly AI.  Oh yeah, and then there's the blockchain, computer vision, natural language processing, and a whole wide world of computational statistics specializations and applications. :tired_face:  :tired_face:  :tired_face:
 
 Not like I'm learning it all at once - but the vast expanse of everything I just don't know (but on the fringe of understanding) is incredibly humbling and empowering. :triumph:
 
@@ -22,7 +22,7 @@ Frankly, I decided an accredited bootcamp was for me after the 2016 Open Data Sc
 
 But finding and working with a well-qualified data scientist was a completely different story.  Instead of fighting desperately, it was easier to jump head first into the vast ocean of tech innovation in the SoMa district of San Francisco.  It's easier to hustle when you're at the center of a strong community.
 
-## At Metis in San Francisco, it's trial by :fire:. 
+## At Metis in San Francisco, it's trial by :fire: 
 
 For a workaholic like me, it's almost a dream come true. Unfairly short deadlines combined with an seemingly endless list of resources and things to learn.  It's like a digital Disneyland - moving from scary rides to awesome rides at the speed of stamina and mental energy.
 
