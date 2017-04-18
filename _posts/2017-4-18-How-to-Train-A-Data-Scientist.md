@@ -14,15 +14,15 @@ My studies urged me advocate in support changing hearts and minds about climate 
 
 Fast forward a couple months and I was recognized in a state government hackathon for wrangling the data of California's reservoirs in the context of a dam expansion.  Soon after, I was scraping data for an agtech software startup, and learning about how data impacted the 2016 presidential election through an Asian Pacific American Civic Leadership Program.
 
-Looking forward, my faith in data science for social good in combination with the ubiquity of AI has me yearning to drive policy and industry standards in support of friendly AI.  Oh yeah, and then there's the blockchain, computer vision, natural language processing, and a whole wide world of computational statistics specializations and applications. :tired_face:  :tired_face:  :tired_face:
+Looking forward, my faith in data science for social good in combination with the ubiquity of AI has me yearning to drive policy and industry standards in support of friendly AI.  Oh yeah, and then there's the blockchain, computer vision, natural language processing, and a whole wide world of computational statistics specializations and applications.
 
-Not like I'm learning it all at once - but the vast expanse of everything I just don't know (but on the fringe of understanding) is incredibly humbling and empowering. :triumph: I want to learn it all.
+Not like I'm learning it all at once - but the vast expanse of everything I just don't know (but on the fringe of understanding) is incredibly humbling and empowering. I want to learn it all.
 
 Frankly, I decided an accredited bootcamp was for me after the 2016 Open Data Science Conference in Santa Clara.  Metis was tabling, as were other data science bootcamp programs.  The workshops were a bit over my head, and the capabilities of data scientists around me were sky high. I left with many role models, and a huge thirst for professional mentorship.
 
 But finding and working with a well-qualified data scientist was a completely different story.  Instead of fighting desperately, it was easier to jump head first into the vast ocean of tech innovation in the SoMa district of San Francisco.  It's easier to hustle when you're at the center of a strong community.
 
-## At Metis in San Francisco, it's trial by :fire: 
+## At Metis in San Francisco, it's trial by fire!
 
 For a workaholic like me, it's almost a dream come true. Unfairly short deadlines combined with an seemingly endless list of resources and things to learn.  It's like a digital Disneyland - moving from scary rides to awesome rides at the speed of stamina and mental energy.
 
@@ -44,4 +44,4 @@ From here on out, there's three individual projects and one more group project. 
 
 > Normal people can't do the things warriors are asked to do. They can't imagine it and shouldn't be forced to. But there are those that do. For these people though, there must be a transition from "civilian" to "warrior." Boot camp is the means of that evolution, and every part of it is necessary. 
 
-```Here's to growing as a human.```
+**Here's to growing as a human.**
