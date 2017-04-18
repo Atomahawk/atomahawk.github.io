@@ -16,7 +16,7 @@ Fast forward a couple months and I was recognized in a state government hackatho
 
 Looking forward, my faith in governance in combination with the ubiquity of AI has me yearning to drive policy and industry standards in support of friendly AI.  Oh yeah, and then there's the blockchain, computer vision, natural language processing, and a whole wide world of computational statistics specializations and applications. :tired_face:  :tired_face:  :tired_face:
 
-Not like I'm learning it all at once - but the vast expanse of everything I just don't know (but on the fringe of understanding) is incredibly humbling and empowering. :triumph:
+Not like I'm learning it all at once - but the vast expanse of everything I just don't know (but on the fringe of understanding) is incredibly humbling and empowering. :triumph: I want to learn it all.
 
 Frankly, I decided an accredited bootcamp was for me after the 2016 Open Data Science Conference in Santa Clara.  Metis was tabling, as were other data science bootcamp programs.  The workshops were a bit over my head, and the capabilities of data scientists around me were sky high. I left with many role models, and a huge thirst for professional mentorship.
 
